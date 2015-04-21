@@ -1,0 +1,26 @@
+;BEGIN FRAGMENT CODE - Do not edit anything between this and the end comment
+;NEXT FRAGMENT INDEX 1
+Scriptname FBMW_TIF__0101C261 Extends TopicInfo Hidden
+
+;BEGIN FRAGMENT Fragment_0
+Function Fragment_0(ObjectReference akSpeakerRef)
+Actor akSpeaker = akSpeakerRef as Actor
+;BEGIN CODE
+;fbmwHHLiteracyCampaign
+getOwningQuest().setStage(50)
+;playerRef.removeItem(abc, 1)
+;playerRef.removeItem(annuad, 1)
+;akSpeaker.addItem(abc, 1)
+;akSpeaker.addItem(annuad, 1)
+;SkywindUtils.IncrementRelationshipRankWithPlayer(akSpeaker, 1)
+;END CODE
+EndFunction
+;END FRAGMENT
+
+;END FRAGMENT CODE - Do not edit anything between this and the begin comment
+
+Actor Property PlayerRef  Auto  
+
+Book Property abc  Auto  
+
+Book Property Annuad  Auto  
