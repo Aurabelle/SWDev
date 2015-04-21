@@ -1,0 +1,43 @@
+An overhaul to the perk/leveling system is currently on the table, to try and address the differences between Morrowind and Skyrim's systems.
+
+At this stage, we are looking at changing the way perks are gained--instead on vanilla Skyrim's 'pick-a-perk' upon level up, Skywind's system would give trainers a more active role in aquiring perks.
+Passive perks such as more damage dealt/chance of critical hit increases would be automatically gained when your character reaches a certain level in a given skill, and more interesting perks (like decapitating enemies/restoring health and stamina with one spell)
+would require you to train with an appropriate trainer, you know, to get your protips. These trainer based perks will generally also require a certain skill level, and Master-level perks may even require a quest---not your silly radiant fetch quest, a quest which 
+actually means you learn something. The perks themselves are probably going to be revisited to make them more interesting/worth the time and money.
+
+Some of you may be freaking out by now because now it appears you don't get a reward for leveling up, but rest assured there will most likey be something besides the satisfaction of being awesome to make it worth your while.
+Key words in that sentence would be 'most likey', however. (Not sure how feasible it would be to incorporate bonuses to skills with the Morrowind skill chooser/multiplier upon level up).
+Leveling up will also require you to rest and meditate on what you've learned in order to gain the level, like it was in Morrowind (basically find a place to nap and rest, for those who aren't too fussed on telling a story with their character, or don't want to waste 
+their hard...uh, earnt money on a bed :) )
+
+
+Morrowind: used to choose an attribute to level up, and that in turn determined your skill levels. Multipliers for how much you increased an attribute were available depending on your skill increases throughout the level. Attributes also governed carry weight, 
+health/magicka/stamina gain per level, and other stuff. Skyrim's systems still do that to some extent: leveling health/magicka/stamina has bonuses besides the obvious increase. 
+
+Multiplier for health/magicka/stamina based on skill increases in that particular area?
+
+
+Armour/weapon degradation and repair being done at forges only. 
+
+
+
+Hack the vampire/werewolf perk trees perhaps repurpose for crafting? Can access them 
+
+
+THERMOCRIUS: Make levitation a constant cast spell, like a ward. 
+
+Alchemy: make it a derived attribute. Perks/effects only active after you make like 100 potions. Quality determined by equipment. Need to decide what each part of the equipment done
+
+Physiology tree: unarmed (way to hack the unarmed derved attribute so it actually levels)/acrobatics/athleticism.
+
+
+Mage: Enchanting, Destruction, Alteration, Conjuration, Illusion, Restoration
+
+Warrior: Blunt, Long Blades (axe/sword), Piercing(spears), Block(unarmed?),  Fortified Armor**, 
+
+Thief: Projectiles, Short Blades, Lightly Armored(light,unarmored), Alchemy, Stealth, Personality(speech,mercantile)
+
+*Blunt tree opens up possibility of customized blunt kill moves
+
+**seperate one handed and two handed branches within the tree could be made
+***seperate medium and heavy trees with maybe the occasion shared perk.
